@@ -1,0 +1,18 @@
+D:\Обучение\Операционные системы\coursework\Server\bin\Debug\Database.mdf
+D:\Обучение\Операционные системы\coursework\Server\bin\Debug\Database_log.ldf
+D:\Обучение\Операционные системы\coursework\Server\bin\Debug\Server.exe.config
+D:\Обучение\Операционные системы\coursework\Server\bin\Debug\Server.exe
+D:\Обучение\Операционные системы\coursework\Server\bin\Debug\Server.pdb
+D:\Обучение\Операционные системы\coursework\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Обучение\Операционные системы\coursework\Server\obj\Debug\Server.exe
+D:\Обучение\Операционные системы\coursework\Server\obj\Debug\Server.pdb
+D:\Обучение\Операционные системы\coursework\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\GitHub\coursework\Server\bin\Debug\Database.mdf
+D:\GitHub\coursework\Server\bin\Debug\Database_log.ldf
+D:\GitHub\coursework\Server\bin\Debug\Server.exe.config
+D:\GitHub\coursework\Server\bin\Debug\Server.exe
+D:\GitHub\coursework\Server\bin\Debug\Server.pdb
+D:\GitHub\coursework\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\GitHub\coursework\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\GitHub\coursework\Server\obj\Debug\Server.exe
+D:\GitHub\coursework\Server\obj\Debug\Server.pdb
