@@ -18,5 +18,5 @@
 |4  |misha       |1          |
 |11 |lala1       |12a        |
 
-#P.S.
+## P.S.
 В данном приложении используются следующие библиотеки: Tao.FreeGlut, Tao.OpenGl, Tao.Platform.Windows, System.Configuration, System.Data.SqlClient.
