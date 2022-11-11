@@ -19,4 +19,4 @@
 |11 |lala1       |12a        |
 
 ### P. S.
-В данном приложении используются следующие библиотеки: Tao.FreeGlut, Tao.OpenGl, Tao.Platform.Windows, System.Configuration, System.Data.SqlClient.
+В данном приложении используются следующие библиотеки: Tao.FreeGlut, Tao.OpenGl, Tao.Platform.Windows, System.Configuration, System.Data.SqlClient, System.Net.Sockets, System.Net, System.Threading.
